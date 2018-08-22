@@ -6,7 +6,7 @@ QSharer
 [![Github All Releases](https://img.shields.io/github/downloads/zigzagbob/QSharer/total.svg)](https://github.com/zigzagbob/QSharer/releases)
 [![GitHub release](https://img.shields.io/github/release/zigzagbob/QSharer.svg)](https://github.com/zigzagbob/QSharer/releases/latest)
 
-Qt version of Sharer
+Qt version of [Sharer](https://github.com/zigzagbob/Sharer)
 
 ![LE interface](https://github.com/zigzagbob/Compile/raw/master/png/qs.PNG)
 
