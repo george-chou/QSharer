@@ -30,7 +30,7 @@ Installation package of dynamic qt compiler: [qt-opensource-windows-x86-msvc2013
 
 ## Build worker ##
 
-Microsoft Visual Studio 2013 with [qt-vs-addin-1.2.4-opensource](http://download.qt.io/archive/vsaddin/qt-vs-addin-1.2.4-opensource.exe)
+Microsoft Visual Studio 2013(Admin) with [qt-vs-addin-1.2.4-opensource](http://download.qt.io/archive/vsaddin/qt-vs-addin-1.2.4-opensource.exe)
 
 ## Environment variables ##
 
