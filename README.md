@@ -8,7 +8,7 @@ QSharer
 
 Qt version of [Sharer](https://github.com/zigzagbob/Sharer)
 
-![LE interface](https://github.com/zigzagbob/Compile/raw/master/png/qs.PNG)
+![LE interface](https://github.com/zigzagbob/zigzagbob.github.io/raw/master/RmPNG/qs.PNG)
 
 # Download #
 
