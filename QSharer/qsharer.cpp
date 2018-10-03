@@ -50,27 +50,27 @@ void QSharer::setupUi(QMainWindow *QSharerClass)
 	ClientLabel->setLocale(QLocale(QLocale::English, QLocale::UnitedStates));
 	PassLabel = new QLabel(HotspotTab);
 	PassLabel->setObjectName(QStringLiteral("PassLabel"));
-	PassLabel->setGeometry(QRect(50, 180, 81, 16));
+	PassLabel->setGeometry(QRect(50, 180, 90, 16));
 	CreateButton = new QPushButton(HotspotTab);
 	CreateButton->setObjectName(QStringLiteral("CreateButton"));
-	CreateButton->setGeometry(QRect(50, 250, 93, 28));
+	CreateButton->setGeometry(QRect(50, 250, 100, 30));
 	ClientNumLabel = new QLabel(HotspotTab);
 	ClientNumLabel->setObjectName(QStringLiteral("ClientNumLabel"));
 	ClientNumLabel->setGeometry(QRect(280, 40, 72, 15));
 	ClientNumLabel->setAlignment(Qt::AlignCenter);
 	WifiNameLabel = new QLabel(HotspotTab);
 	WifiNameLabel->setObjectName(QStringLiteral("WifiNameLabel"));
-	WifiNameLabel->setGeometry(QRect(50, 110, 91, 16));
+	WifiNameLabel->setGeometry(QRect(50, 110, 110, 16));
 	PassEdit = new QLineEdit(HotspotTab);
 	PassEdit->setObjectName(QStringLiteral("PassEdit"));
 	PassEdit->setGeometry(QRect(240, 170, 161, 21));
 	PassEdit->setMaxLength(13);
 	DisconnectButton = new QPushButton(HotspotTab);
 	DisconnectButton->setObjectName(QStringLiteral("DisconnectButton"));
-	DisconnectButton->setGeometry(QRect(290, 250, 93, 28));
+	DisconnectButton->setGeometry(QRect(290, 250, 100, 30));
 	HideCheck = new QCheckBox(HotspotTab);
 	HideCheck->setObjectName(QStringLiteral("HideCheck"));
-	HideCheck->setGeometry(QRect(410, 170, 61, 19));
+	HideCheck->setGeometry(QRect(410, 170, 70, 20));
 	tabWidget->addTab(HotspotTab, QString());
 	DeviceTab = new QWidget();
 	DeviceTab->setObjectName(QStringLiteral("DeviceTab"));
@@ -275,14 +275,5 @@ void QSharer::UpdClients(QStringList mList)
 void QSharer::PassMinLength(QString pass)
 {
 	int pl = pass.length();
-
-	if (pl >= 8 && pl <= 13)
-	{
-		CreateButton->setEnabled(true);
-	}
-	else
-	{
-		CreateButton->setEnabled(false);
-	}
-
+	CreateButton->setEnabled((pl >= 8 && pl <= 13));
 }
