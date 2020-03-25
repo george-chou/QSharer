@@ -1,18 +1,18 @@
 QSharer
 ===============
 
-[![license](https://img.shields.io/github/license/zigzagbob/QSharer.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
-[![AppVeyor](https://img.shields.io/appveyor/ci/zigzagbob/QSharer.svg)](https://ci.appveyor.com/project/zigzagbob/QSharer)
-[![Github All Releases](https://img.shields.io/github/downloads/zigzagbob/QSharer/total.svg)](https://github.com/zigzagbob/QSharer/releases)
-[![GitHub release](https://img.shields.io/github/release/zigzagbob/QSharer.svg)](https://github.com/zigzagbob/QSharer/releases/latest)
+[![license](https://img.shields.io/github/license/george-chou/QSharer.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
+[![AppVeyor](https://img.shields.io/appveyor/ci/george-chou/QSharer.svg)](https://ci.appveyor.com/project/george-chou/QSharer)
+[![Github All Releases](https://img.shields.io/github/downloads/george-chou/QSharer/total.svg)](https://github.com/george-chou/QSharer/releases)
+[![GitHub release](https://img.shields.io/github/release/george-chou/QSharer.svg)](https://github.com/george-chou/QSharer/releases/latest)
 
-Qt version of [Sharer](https://github.com/zigzagbob/Sharer)
+Qt version of [Sharer](https://github.com/george-chou/Sharer)
 
-![LE interface](https://github.com/zigzagbob/QSharer/raw/master/cover/qs.PNG)
+![LE interface](https://github.com/george-chou/QSharer/raw/master/cover/qs.PNG)
 
 # Download #
 
-Download available at <https://github.com/zigzagbob/QSharer/releases>.
+Download available at <https://github.com/george-chou/QSharer/releases>.
 
 # Build #
 
