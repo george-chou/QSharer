@@ -8,7 +8,7 @@ QSharer
 
 Qt version of [Sharer](https://github.com/george-chou/Sharer)
 
-![LE interface](https://github.com/george-chou/QSharer/raw/master/cover/qs.PNG)
+<img width="500" src="https://github.com/george-chou/QSharer/raw/master/cover/qs.PNG" />
 
 # Download #
 
