@@ -4,7 +4,6 @@ QSharer
 [![license](https://img.shields.io/github/license/george-chou/QSharer.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
 [![AppVeyor](https://img.shields.io/appveyor/ci/george-chou/QSharer.svg)](https://ci.appveyor.com/project/george-chou/QSharer)
 [![Github All Releases](https://img.shields.io/github/downloads-pre/george-chou/QSharer/v1.1/total)](https://github.com/george-chou/QSharer/releases)
-<!--[![GitHub release](https://img.shields.io/github/release/george-chou/QSharer.svg)](https://github.com/george-chou/QSharer/releases/latest)-->
 
 Qt version of [Sharer](https://github.com/george-chou/Sharer)
 
@@ -12,7 +11,7 @@ Qt version of [Sharer](https://github.com/george-chou/Sharer)
 
 # Download #
 
-Download available at <https://github.com/george-chou/QSharer/releases>.
+Download available at <https://github.com/george-chou/QSharer/releases>;
 
 # Build #
 
